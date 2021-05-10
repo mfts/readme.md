@@ -51,3 +51,8 @@ by automatically forking the project and prompting to send a pull request too.
 [fork]: https://help.github.com/articles/fork-a-repo/
 [branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
 [pr]: https://help.github.com/articles/using-pull-requests/
+
+## Inspiration
+
+- Katherine Peterson's [readme.so](https://github.com/katherinepeterson/readme.so)
+- Matias Singers' [awesome-readme](https://github.com/matiassingers/awesome-readme)
