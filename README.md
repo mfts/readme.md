@@ -2,7 +2,7 @@
 
 > This project has drawn inspiration from [GitHub's gitignore](https://github.com/github/gitignore) repository, which contains a collection of useful .gitignore file templates. GitHub uses this list to populate the .gitignore template choosers available in the GitHub.com interface when creating new repositories and files.
 
-## Goal
+## Goal 🎯
 The goal is to make it easy for people to add and draw from README.md templates for programming languages or specific applications. 
 
 ## Contributing guidelines
